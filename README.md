@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @joaovictorgit21
-- 👀 I’m interested in learn to work with several programming languages
-- 🌱 I’m currently learning javascript
+- High School Student with IT Technician
+- 
 
 <!---
 joaovictorgit21/joaovictorgit21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
