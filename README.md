@@ -1,5 +1,6 @@
-<img scr="https://github.com/joaovictorgit21/Imgs-Readmes/blob/main/Frame%201.jpg">
-
+<div>
+  <img scr="https://github.com/joaovictorgit21/Imgs-Readmes/blob/main/Frame%201.jpg">
+</div>
 <br><br>
 # 📊 Statistics
 
