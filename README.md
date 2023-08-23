@@ -30,3 +30,9 @@
 ## Studying
 
 ![Python](https://img.shields.io/badge/python-%2300f.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaovictorgit21}/count.svg" /></p> 
+<br>
+</div>
