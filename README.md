@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorgit21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br><br>
-# 📱:Contact
+# 📱 Contact
 
 <a href = "mailto:joaovictorfariasdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/victor_farias_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
