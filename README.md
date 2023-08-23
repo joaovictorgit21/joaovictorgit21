@@ -1,10 +1,6 @@
 <div>
-  
-  <img scr="https://i.pinimg.com/originals/b0/16/d0/b016d02936c8b0668399cc5b823082d9.png">
-
-</div>
-
-<br><br>
+   <img src="[https://i.pinimg.com/564x/f7/b8/31/f7b8311218b00a73860791072e23e934.jpg](https://i.pinimg.com/originals/b0/16/d0/b016d02936c8b0668399cc5b823082d9.png)">
+<div>
 
 # 📊 Statistics
 
