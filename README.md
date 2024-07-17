@@ -8,7 +8,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joaovictorgit21&theme=blue-green&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorgit21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaovictorgit21&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <br><br>
 # 📱 Contact
