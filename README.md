@@ -13,7 +13,7 @@
 <br><br>
 # 📱 Contact
 
-<a href = "mailto:joaovictorfariasdev@gmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail)]</a>
+[![My Skills](https://skillicons.dev/icons?i=gmail)(<a href = "mailto:joaovictorfariasdev@gmail.com">)]</a>
 <a href="https://www.instagram.com/victor_farias_dev" target="_blank">[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a>
 <a href="https://discord.gg/w3WR4C9pyt" target="_blank">[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)</a> 
 <a href="https://linkedin.com/in/joaovictorfarias">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
