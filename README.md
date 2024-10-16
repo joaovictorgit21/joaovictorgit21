@@ -26,7 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 
 <br><br>
-## Studying
+## 📚 Studying
 
 [![My Skills Studyng](https://skillicons.dev/icons?i=js,java&theme=light)](https://skillicons.dev)
 [![My Skills Studyng](https://skillicons.dev/icons?i=php&theme=dark)](https://skillicons.dev)
