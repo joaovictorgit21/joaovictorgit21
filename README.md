@@ -20,6 +20,8 @@
 
 <br>
 
+# 💻 Languages
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 
