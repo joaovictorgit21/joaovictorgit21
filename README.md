@@ -15,7 +15,6 @@
 
 <a href = "mailto:joaovictorfariasdev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 <a href = "https://www.instagram.com/joaovictorfariasdev"><img src="https://skillicons.dev/icons?i=instagram"></a>
-<a href = "https://discord.gg/w3WR4C9pyt"><img src="https://skillicons.dev/icons?i=discord"></a>
 <a href = "https://linkedin.com/in/joaovictorfarias"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 
 <br>
